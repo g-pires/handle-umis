@@ -1,0 +1,20 @@
+Source: handle-umis
+Section: python
+Priority: optional
+Maintainer: Gabriel Pires <gabriel.pires-ext@aphp.fr>
+Uploaders: Gabriel Pires <gabriel.pires-ext@aphp.fr>
+Build-Depends: 
+ debhelper (>= 9),
+ dh-python,
+ python3-all,
+ python3-setuptools,
+Standards-Version: 3.9.8
+
+
+Package: python3-handle-umis
+Architecture: all
+Depends: ${python3:Depends}
+Description: handle-umis is a package that is used for the
+ pipeline SAIP using smCounter2. There are 2 python modules
+ add_umi, add_tags. 
+

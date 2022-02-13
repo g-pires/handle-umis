@@ -1,0 +1,12 @@
+.pybuild/
+build/
+debian/debhelper-build-stamp
+debian/files
+debian/python3-handle-umis.debhelper.log
+debian/python3-handle-umis.postinst.debhelper
+debian/python3-handle-umis.prerm.debhelper
+debian/python3-handle-umis.substvars
+debian/python3-handle-umis/
+handle_umis.egg-info/
+handle_umis/__pycache__/
+

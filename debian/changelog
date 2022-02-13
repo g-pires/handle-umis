@@ -1,0 +1,17 @@
+handle-umis (1.1.1) unstable; urgency=medium
+
+  * Added txt_to_vcf.py
+
+ --  <gpires@sap5198766.aphp.fr>  Tue, 11 Jun 2019 14:27:04 +0200
+
+handle-umis (1.1.0) unstable; urgency=medium
+
+  * Added txt_to_fasta.py 
+
+ -- Gabriel Pires <gabriel.pires-ext@aphp.fr>  Tue, 21 May 2019 13:43:14 +0200
+
+handle-umis (1.0.0) unstable; urgency=medium
+
+  * Initial release.
+
+ --  <gabriel.pires-ext@aphp.fr>  Wed, 15 May 2019 18:17:05 +0200
